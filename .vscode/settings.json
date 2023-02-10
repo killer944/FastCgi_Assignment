@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "lds.h": "c",
+        "functional": "c",
+        "seperater.h": "c",
+        "string.h": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "memcache.h": "c"
+    }
+}
